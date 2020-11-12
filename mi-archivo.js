@@ -1,1 +1,1 @@
-alert("EDITADOS");
+alert("EDITADOS con cambios");
